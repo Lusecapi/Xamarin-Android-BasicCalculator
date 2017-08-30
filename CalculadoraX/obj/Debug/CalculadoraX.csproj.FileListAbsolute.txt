@@ -1,0 +1,14 @@
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\bin\Debug\CalculadoraX.dll
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\bin\Debug\CalculadoraX.pdb
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\bin\Debug\CalculadoraX.CalculadoraX.apk
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\bin\Debug\CalculadoraX.CalculadoraX-Signed.apk
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\obj\Debug\CalculadoraX.dll
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\obj\Debug\CalculadoraX.pdb
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\obj\Debug\android\bin\CalculadoraX.CalculadoraX.apk
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\obj\Debug\res\layout\main.xml
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\obj\Debug\res\values\strings.xml
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\obj\Debug\res\drawable\icon.png
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\obj\Debug\R.cs.flag
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\obj\Debug\uploadflags.txt
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\obj\Debug\CalculadoraX.dll.mdb
+C:\Users\lusec\Documents\Visual Studio 2015\Projects\CalculadoraX\CalculadoraX\bin\Debug\CalculadoraX.dll.mdb
